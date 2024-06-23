@@ -1,1 +1,9 @@
+Java:
+1.Java OOP language
+2.Java is statically typed, with explicit type declarations.
+3.Java code is compiled to bytecode that runs on the Java Virtual Machine
 
+Scala:
+1. Scala is a hybrid language, supporting both object-oriented and functional programming paradigms.
+2.Scala is statically typed, but with more advanced type inference than Java.
+3. Scala code is compiled to bytecode that runs on the JVM.
